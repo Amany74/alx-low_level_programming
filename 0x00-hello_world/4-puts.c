@@ -1,6 +1,8 @@
 #include <stdio.h>
-/*
- * The starting point of tha app
+/**
+ * main - Entry point
+ *
+ * Return: always 0
  */
 int main(void)
 {
