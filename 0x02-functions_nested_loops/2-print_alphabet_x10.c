@@ -1,7 +1,7 @@
 #include "main.h"
 #include "stdio.h"
 /**
- * print_alphabet - a function to print alphabet
+ * print_alphabet_x10 - a function to print alphabet 10 times
  * in lowecase using putchar only twice 
  *
  * return : void 
