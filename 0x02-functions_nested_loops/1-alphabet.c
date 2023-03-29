@@ -4,7 +4,8 @@
  * print_alphabet - a function to print alphabet in lowecase using putchar only twice 
  *
  * return : void 
- **/
+**/
+
 void print_alphabet(void)
 {
 	char i;
